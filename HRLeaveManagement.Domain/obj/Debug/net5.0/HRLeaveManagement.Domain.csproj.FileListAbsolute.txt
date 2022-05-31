@@ -1,0 +1,12 @@
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\bin\Debug\net5.0\HRLeaveManagement.Domain.deps.json
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\bin\Debug\net5.0\HRLeaveManagement.Domain.dll
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\bin\Debug\net5.0\HRLeaveManagement.Domain.pdb
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\obj\Debug\net5.0\HRLeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\obj\Debug\net5.0\HRLeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\obj\Debug\net5.0\HRLeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\obj\Debug\net5.0\HRLeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\obj\Debug\net5.0\HRLeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\obj\Debug\net5.0\HRLeaveManagement.Domain.dll
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\obj\Debug\net5.0\refint\HRLeaveManagement.Domain.dll
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\obj\Debug\net5.0\HRLeaveManagement.Domain.pdb
+C:\Users\hp\source\repos\HRLeaveManagement\HRLeaveManagement.Domain\obj\Debug\net5.0\ref\HRLeaveManagement.Domain.dll
