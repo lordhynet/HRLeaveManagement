@@ -5,7 +5,21 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="10.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\HRLeaveManagement.Domain\HRLeaveManagement.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Features\LeaveAllocation\Handlers\Commands\" />
+    <Folder Include="Features\LeaveAllocation\Requests\Commands\" />
+    <Folder Include="Features\LeaveRequest\Handlers\Command\" />
+    <Folder Include="Features\LeaveRequest\Requests\Commands\" />
+    <Folder Include="Features\LeaveType\Handlers\Commands\" />
+    <Folder Include="Features\LeaveType\Requests\Commands\" />
   </ItemGroup>
 
 </Project>
